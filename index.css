@@ -1,0 +1,46 @@
+td{
+    text-align: center;
+}
+.Tablename{
+
+        text-align: start;
+}
+.Fullname{
+
+    display: flex;
+}
+.Last{
+    padding-top: 59px;
+    padding-left: 33px;
+}
+#Mail{
+    width: 362px;
+}
+.Row{
+    background: #F1F1F1;
+}
+#comment{
+    width: 1000px;
+    height: 100px;
+}
+button{
+
+    background-color: black;
+    color: white;
+    padding: 4px;
+    margin: 10px;
+
+}
+h4{
+    font-weight: 10px;
+}
+td{
+    max-width: 47px;
+}
+
+.red-star {
+    color: red;
+  }
+  .red-starr {
+    color:#ECAF82;
+  }
